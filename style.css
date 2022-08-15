@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+*{
+      margin: 0;
+      padding: 0;
+      font-family: 'Poppins', sans-serif;
+}
+body{
+      min-height: 100vh;
+}
+.heading{
+      font-family: 'Poppins', sans-serif;
+      color: red;
+      font-weight: bold;
+      font-size: 50px;
+      padding-top: 20px;
+}
+.main{
+      width: 100%;
+      min-height: 100vh;
+      background-color: rgba(0, 0, 0, 0.9);      margin-top: -20px;
+      text-align: center;
+}
